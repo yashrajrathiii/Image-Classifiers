@@ -1,0 +1,50 @@
+/started
+/logs
+/.ipynb_checkpoints
+
+/.imageclassification
+
+# Ignore TensorFlow checkpoints and model files
+model/
+*.h5
+*.pb
+
+# Ignore logs and TensorBoard data
+logs/
+tensorboard/
+
+# Ignore virtual environment folders (optional, if using venv or conda)
+venv/
+env/
+.venv/
+.conda/
+
+# Ignore Python bytecode files and cache
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Ignore TensorFlow checkpoints and model files
+models/
+*.h5
+*.pb
+
+# Ignore logs and TensorBoard data
+logs/
+tensorboard/
+
+# Ignore virtual environment folders (optional, if using venv or conda)
+venv/
+env/
+.venv/
+.conda/
+
+# Ignore Python bytecode files and cache
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
